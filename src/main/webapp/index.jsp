@@ -1,6 +1,7 @@
-<%@ page import="com.oreilly.jenkins.MessageSource"  %>
 <html>
+
 <body>
-<h2><%=new MessageSource().getMessage()%></h2>
+    <h2>Hello from the web app!</h2>
 </body>
+
 </html>
